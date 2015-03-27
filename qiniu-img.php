@@ -1,7 +1,7 @@
 <?php  
 /*
 Plugin Name: 七牛图片服务
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI: http://strongme.cn/2015-03-27-qiniuimg-wordpress-plugin.html
 Description: 向七牛存储服务中上传，列出带前缀的图片文件，并加以展示
 Version: 1.0
 Author: Strongme
